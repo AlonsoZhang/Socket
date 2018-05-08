@@ -6,44 +6,28 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		+vX/e8FWTl6NFXWtJYItVf4/3BE=
+		wXIicJMVRvlTaDmDpe3UHmxHk34=
+		</data>
+		<key>Resources/Assets.car</key>
+		<data>
+		dIJmGWJ8ooXEzRPL2teStD923do=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TwgKGWo+lwH9fKXCSDjiYMwRlp4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
+		<data>
+		zGcDeorVE9baOSNgPIT7vYuULW4=
+		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L9rx6aOl5aJuY5quMEo+EVYdj4Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
+		<data>
+		vKzMz/UtmLSiNcAT6h9ONgKLxW0=
+		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rRetg1s4mu4R3FV/OPdr3mGew9U=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
+		<data>
+		/a6j9oNHD7vMPtuEymOskkwfbeU=
+		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tDP6Zw+fSuYryLkHrHsuziIV80I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
+		<data>
+		o1QvdpnJl54THqvbs4ebGev3UYM=
+		</data>
 		<key>Resources/connect.png</key>
 		<data>
 		94iQnAOKZkJJwcpALPvflOH/sv4=
@@ -56,53 +40,93 @@
 	<key>files2</key>
 	<dict>
 		<key>Resources/AppIcon.icns</key>
-		<data>
-		+vX/e8FWTl6NFXWtJYItVf4/3BE=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			wXIicJMVRvlTaDmDpe3UHmxHk34=
+			</data>
+			<key>hash2</key>
+			<data>
+			+/k0yo8U8qtyfycqdUTgKOSSvQaoO/hOkUqIcH3K+QA=
+			</data>
+		</dict>
+		<key>Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dIJmGWJ8ooXEzRPL2teStD923do=
+			</data>
+			<key>hash2</key>
+			<data>
+			gCyBf1QiXUgMfSqTvAwWxdWCEViuc6O0fPam0NWX0RY=
+			</data>
+		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TwgKGWo+lwH9fKXCSDjiYMwRlp4=
+			zGcDeorVE9baOSNgPIT7vYuULW4=
 			</data>
-			<key>optional</key>
-			<true/>
+			<key>hash2</key>
+			<data>
+			Xb7PUnfI0YX0p2wH3+2u4HufiF9uRfu5cOHgetKTLZo=
+			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L9rx6aOl5aJuY5quMEo+EVYdj4Q=
+			vKzMz/UtmLSiNcAT6h9ONgKLxW0=
 			</data>
-			<key>optional</key>
-			<true/>
+			<key>hash2</key>
+			<data>
+			T1Br4RYcMTba05eXE2sia1ERHMOzCpcK0yKmsAAQo3E=
+			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rRetg1s4mu4R3FV/OPdr3mGew9U=
+			/a6j9oNHD7vMPtuEymOskkwfbeU=
 			</data>
-			<key>optional</key>
-			<true/>
+			<key>hash2</key>
+			<data>
+			Otm5G912yA7ARKMzzn4TKRLz1Xi8bXzz7B04VwYNktI=
+			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tDP6Zw+fSuYryLkHrHsuziIV80I=
+			o1QvdpnJl54THqvbs4ebGev3UYM=
 			</data>
-			<key>optional</key>
-			<true/>
+			<key>hash2</key>
+			<data>
+			k1j9adVwFRz/HYjfhry+bguxNx5dOTsI3dmGB2Hv0Hw=
+			</data>
 		</dict>
 		<key>Resources/connect.png</key>
-		<data>
-		94iQnAOKZkJJwcpALPvflOH/sv4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			94iQnAOKZkJJwcpALPvflOH/sv4=
+			</data>
+			<key>hash2</key>
+			<data>
+			VX/v7mFYg+XaLp1dtGdqGgElSoK6A1Ivr5E7kVzNFDk=
+			</data>
+		</dict>
 		<key>Resources/disconnect.png</key>
-		<data>
-		gqTcwlQ90ZACneVRnLpD8ZInGPw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			gqTcwlQ90ZACneVRnLpD8ZInGPw=
+			</data>
+			<key>hash2</key>
+			<data>
+			qfmdZjXqiVOAJvaPp/n4YY4RSVzrOLT96DzAb44WTe8=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
@@ -121,6 +145,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -180,6 +209,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^[^/]+$</key>
 		<dict>

@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>14F1605</string>
+	<string>17E202</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>Socket-Client</string>
 	<key>CFBundleIconFile</key>
 	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
-	<string>wistron.Socket-Client</string>
+	<string>tech.zhangwu.Socket-Client</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -31,17 +33,17 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>7B91b</string>
+	<string>9E145</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>15A278</string>
+	<string>17E189</string>
 	<key>DTSDKName</key>
-	<string>macosx10.11</string>
+	<string>macosx10.13</string>
 	<key>DTXcode</key>
-	<string>0710</string>
+	<string>0930</string>
 	<key>DTXcodeBuild</key>
-	<string>7B91b</string>
+	<string>9E145</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.10</string>
 	<key>NSHumanReadableCopyright</key>
